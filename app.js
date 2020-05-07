@@ -112,17 +112,6 @@ numbers.forEach( (number) => {
                                                                     return;
                                                                 }
 
-                                                                firstCounter ++;
-                                                                let remainder = firstCounter % 100000000;
-                                                                if (remainder === 0) {
-                                                                    secondCounter ++;
-                                                                    console.log(`Counter: ${secondCounter}`);
-                                                                    console.log(`c: ${c}`);
-                                                                    console.log(`d: ${d}`);
-                                                                    console.log(`e: ${e}`);
-                                                                }
-                                                    
-
                                                                 if (lineOne === 34 && lineTwo === 34 && lineThree === 34 && lineFour === 34 && lineFive === 34 && lineSix === 34 && lineSeven === 34 && lineEight === 34 && lineNine === 34 && lineTen === 34) {
                                                                     console.log(`a: ${a}`);
                                                                     console.log(`b: ${b}`);
