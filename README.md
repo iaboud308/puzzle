@@ -16,3 +16,7 @@ This code aims to solve the puzzle below. In a grid of 4 x 4 boxes, each box mus
               ____|____|____|____|____|____
                34 | 34 | 34 | 34 | 34 |34
                   |    |    |    |    |
+
+
+If you have any suggestions regarding code improvement or the logic I would love to hear from you. Kindly note, the program 
+will keep iterating through the answers and will keep giving solutions until the program is closed. All the answers work.
