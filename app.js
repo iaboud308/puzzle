@@ -1,7 +1,6 @@
 
 
 let a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p;
-let letters = [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p];
 let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16];
 
 let firstCounter = 0;
@@ -166,13 +165,3 @@ numbers.forEach( (number) => {
     })
 })
 
-
-let lineOne = a + b + c + d;
-let lineTwo = e + f + g + h;
-let lineThree = i + j + k + l;
-let lineFour = m + n + o + p;   
- 
-let lineFive = a + e + i + m;
-let lineSix = b + f + j + n;
-let lineSeven = c + g + k + o;
-let lineEight = d + h + l + p;
